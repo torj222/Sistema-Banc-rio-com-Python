@@ -74,4 +74,3 @@ Se você tiver alguma dúvida, entre em contato:
 ---
 
 Desenvolvido durante o Bootcamp Coding The Future Vivo - Python AI Backend Developer.
-```
